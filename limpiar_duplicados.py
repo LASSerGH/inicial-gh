@@ -1,4 +1,4 @@
-# LASSer
+# LASSerGH Corrige en remoto
 # -*- coding: utf-8 -*-
 import os
 import sys
